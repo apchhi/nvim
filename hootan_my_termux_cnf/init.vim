@@ -1,4 +1,5 @@
 """ CONFIG NeoVim
+"" https://github.com/hootan09/vim-termux
 
 "set number
 " set relativenumber
